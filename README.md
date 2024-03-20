@@ -32,7 +32,7 @@ const sumRest = (a, b, c, ...rest) => {
 
 // Destructuring
 let [first, second, ...rest] = [1, 2, 3, 4, 5];
-
+```
 
 ## Running the Script
 
