@@ -32,3 +32,16 @@ const sumRest = (a, b, c, ...rest) => {
 
 // Destructuring
 let [first, second, ...rest] = [1, 2, 3, 4, 5];
+
+
+## Running the Script
+
+To run the provided JavaScript script, follow these steps:
+
+1. Ensure you have Node.js installed on your machine. You can download it from [here](https://nodejs.org/).
+2. Open a terminal or command prompt.
+3. Navigate to the directory where the `destructuring.js` file is located.
+4. Run the script using the following command:
+
+```bash
+node destructuring.js
